@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://victorsc0.github.io/frontendmentor--sunnyside-agency-landing-page-main/)
+- Live Site URL: (https://victorsc0.github.io/frontendmentor--sunnyside-agency-landing-page-main/)
 
 ## My process
 
@@ -43,5 +43,5 @@ I have learned more about the css grid properties.
 ## Author
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/VictorSC0)
+- Frontend Mentor - [@VictorSC0](https://www.frontendmentor.io/profile/VictorSC0)
 
