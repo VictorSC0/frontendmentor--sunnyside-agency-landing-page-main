@@ -1,0 +1,54 @@
+@media screen and (max-width: 650px) {
+    .navbar {
+        display: none;
+    }
+    .hamburger {
+        display: block;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    h1 {
+        font-size: 30px;
+    }
+    .wrapper {
+        display: table;
+    }
+    .wrapper .caixa1 {
+        display: table-footer-group;
+    }
+    .section {
+        display: grid;
+        grid-template-columns: auto;
+    }
+    .caixa1 h2, .caixa4 h2 {
+        font-size: 2.5rem;
+    }
+    .texto-caixa1, .texto-caixa4 {
+        width: 100%;
+        margin: 15% auto 10%;
+        text-align: center;
+        justify-content: center;
+    }
+    .wrapper p, .section p {
+        margin: 15% 0;
+        font-size: 21px;
+    }
+    .texto-caixa5, .texto-caixa6 {
+        width: 95%;
+    }
+    p.pcaixa {
+        font-size: 17px;
+        font-weight: bold;
+        margin: 10% 0 0 0;
+    }
+    .testimonial {
+        font-weight: bold;
+    }
+    .footer-img {
+        grid-template-columns: 50% 50%;
+    }
+    .social-media {
+        margin: 20% 0 10% 0;
+    }
+}
